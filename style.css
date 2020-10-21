@@ -1,0 +1,36 @@
+/* Colors and fonts */
+body {
+	background: #F9FAFE;
+	color:#3B3837;
+	font-family: 'Noto Sans JP', sans-serif;
+	font-size: 16px;
+	font-weight: lighter;
+
+}
+
+h1{ 
+    color: pink;
+    font-family: 'Noto Sans JP', sans-serif;
+    letter-spacing: 4px;
+    font-size: 65px;
+     }
+
+h2{ 
+	font-size: 30px;
+	font-weight: lighter;
+	color: #3A4867;
+
+	 }
+
+ a {
+ 	text-decoration: none;
+ 	color: pink;
+ 	font-weight: bold;
+ 	font-size: 39px;
+ }
+
+ a:hover {
+ 	color: black;
+ }
+
+ 
